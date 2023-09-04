@@ -4,31 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "a95e071e1431ef76",
+        "id": "d449b86adfe308a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f465b6dcb4c5a1e8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d1b64d493826860",
+            "id": "75acb2d2e8ad43a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Gods.md",
+                "file": "Lore/The Capital/The Capital and the Lands In Between.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b58226895cf79928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/The Capital/Lands in Between.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c299dad28aa7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5e4b29b908c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/The Capital/The Capital.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Gods.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Gods.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Gods.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -155,9 +183,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d1b64d493826860",
+  "active": "82c299dad28aa7d7",
   "lastOpenFiles": [
-    "Lore/Gods.md",
+    "Lore/The Capital/Lands in Between.md",
+    "Untitled.md",
+    "Lore/The Capital/The Lost Dynasty of the Capital/Seraphine Dusklight.md",
+    "Lore/The Capital/The Lost Dynasty of the Capital/King Eryndor Dusklight.md",
+    "Lore/The Capital/The Lost Dynasty of the Capital/Elysia Dusklight.md",
+    "Lore/The Capital/The Lost Dynasty of the Capital/Darian Dusklight.md",
+    "Lore/Known Worlds/Core.md",
+    "Lore/Magic/The Astral Warp.md",
+    "Lore/The Capital/The Capital and the Lands In Between.md",
+    "Lore/The Capital/The Capital.md",
+    "Lore/The Capital/The Rift.md",
+    "Lore/The Coalition/The Coalition.md",
+    "Lore/The Coalition/Coalition Leadership.md",
+    "Lore/Gods/Shar.md",
+    "Lore/Gods/Zariel.md",
+    "Lore/Gods/Bane.md",
+    "Lore/Gods/Bhaal.md",
+    "Lore/Gods/Tyr.md",
+    "Lore/Gods/Echo.md",
+    "Lore/Magic",
+    "Lore/The Shattering.md",
+    "Lore/Gods/The Trinity.md",
+    "Lore/The Capital/The Uprising.md",
+    "Lore/Rift.md",
+    "Lore/Gods/Dio.md",
+    "Lore/The Coalition",
+    "Lore/The Capital/Dynasty of The Capital.md",
+    "Lore/The Capital/The Lost Dynasty of the Capital",
+    "Untitled.canvas",
+    "Lore/The Capital",
+    "Lore/Known Worlds/Lore.md",
+    "Lore/Known Worlds",
+    "Lore/Gods",
     "Lore"
   ]
 }

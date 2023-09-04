@@ -1,0 +1,7 @@
+Seraphine Dusklight was the youngest of the royal children and the least involved in the political machinations that plagued the Capital during its turbulent period. Wise beyond her years, she was skeptical of her brother's desperate gambit with the Coalition and chose not to partake in it. 
+
+When the Coalition invaded, she was not in the Capital but somewhere in the Lands in Between, seeking wisdom from the shards of the serpent's aura that lingered there. Sensing the invasion, she made the painful choice not to return to the Capital, fearing her capture would be a propaganda win for the Coalition.
+
+In the aftermath, Seraphine becomes a symbol of hope and resistance, though her whereabouts remain a secret. She joins a growing underground movement, which includes remnants of the Whirlwind, aiming to restore freedom to the Lands in Between and the Capital. Her journeys in the Warp and the Lands in Between have granted her unique insight into how to close the Rift permanently, a secret knowledge she intends to use when the time is right.
+
+Her status as a missing royal also feeds into the ongoing conflict. Some say she is the rightful heir, a figurehead waiting to emerge, while the Coalition seeks her both as a threat and a valuable bargaining chip.

@@ -1,0 +1,1 @@
+King Eryndor was wise and shrewd, a master of the Astral arts but plagued by an unknown ailment he contracted from one of his journeys into the Warp. His sickness made him increasingly secluded and focused on arcane research to find a cure, thereby neglecting the kingdom's affairs.
